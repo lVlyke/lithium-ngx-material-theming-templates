@@ -1,7 +1,7 @@
 {
   "name": "@lithiumjs/ngx-material-theming-templates",
   "description": "Basic run-time theme templates for @lithiumjs/ngx-material-theming",
-  "version": "0.5.0-rc.0",
+  "version": "0.5.0",
   "license": "MIT",
   "private": false,
   "repository": "https://github.com/lVlyke/lithium-ngx-material-theming-templates",

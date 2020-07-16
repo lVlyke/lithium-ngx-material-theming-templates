@@ -1,6 +1,6 @@
 # @lithiumjs/ngx-material-theming-templates
 
-Theme templates for [@lithiumjs/ngx-material-theming](https://github.com/lVlyke/lithium-ngx-material-theming). 
+Pre-compiled theme templates for [@lithiumjs/ngx-material-theming](https://github.com/lVlyke/lithium-ngx-material-theming). 
 
 ## About
 
