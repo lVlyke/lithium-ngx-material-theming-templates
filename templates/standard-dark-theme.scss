@@ -1,10 +1,10 @@
-@import "~@angular/material/theming";
+@use '~@angular/material' as mat;
 @import "~@lithiumjs/ngx-material-theming/styles/theme";
 
 @include app-theme(
     $template-theme-name,
-    mat-palette($template-theme-primary),
-    mat-palette($template-theme-accent),
-    mat-palette($template-theme-warn),
+    mat.define-palette($template-theme-primary),
+    mat.define-palette($template-theme-accent),
+    mat.define-palette($template-theme-warn),
     true
 );
