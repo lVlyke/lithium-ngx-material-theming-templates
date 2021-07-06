@@ -279,17 +279,17 @@
     "@babel/helper-validator-identifier" "^7.14.5"
     to-fast-properties "^2.0.0"
 
-"@lithiumjs/angular@^6.1.0-beta.0":
-  version "6.1.0-beta.0"
-  resolved "https://registry.yarnpkg.com/@lithiumjs/angular/-/angular-6.1.0-beta.0.tgz#41a5dd6d11057a34f7b11b92bca4688a0389aa8b"
-  integrity sha512-fAwv98qwolcRCzfy2g9IrC2PXgr9daMXPfe5C/8+gNhwRYIJDzbd1OVrB3DtiK1W7BsPYU3PiucnaAA/uJWHZw==
+"@lithiumjs/angular@^6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@lithiumjs/angular/-/angular-6.1.0.tgz#290bbe2c06b9bddb4b5f3beb48802a835e991bff"
+  integrity sha512-LAboS0NGRtuhFtn5d9g0EtdaazlCq9BXVt+n0hxUQk4Q74myuQbJFQMYCrtt9rCDdRO1oE4WA489QTfYAeCSSQ==
   dependencies:
     tslib "^2.1.0"
 
-"@lithiumjs/ngx-material-theming@0.7.0-rc.1":
-  version "0.7.0-rc.1"
-  resolved "https://registry.yarnpkg.com/@lithiumjs/ngx-material-theming/-/ngx-material-theming-0.7.0-rc.1.tgz#03eed16fbdce18e276472b0d5d4467fb6582f9b8"
-  integrity sha512-FbbhI4pcxY6/Co3owlV2fInLjmTFfrJ7boxiIjXThCv7ui5WpElZYtjo/VCotEtRro1KjB1myez6Kf7p71xISQ==
+"@lithiumjs/ngx-material-theming@0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@lithiumjs/ngx-material-theming/-/ngx-material-theming-0.7.0.tgz#5f6cb8744065c83b4bf0f0291750ed26c11e6a24"
+  integrity sha512-+uXt/mb8qyqluwV1o0RSf4O5ENAfXVHLtYcWMUQqbtgeIlRE23sQVW0LYvG623V/4Y9S3BKrnPlder2KK34Uew==
   dependencies:
     tslib "^2.1.0"
 
