@@ -1,7 +1,7 @@
 {
   "name": "@lithiumjs/ngx-material-theming-templates",
   "description": "Basic run-time theme templates for @lithiumjs/ngx-material-theming",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "license": "MIT",
   "private": false,
   "repository": "https://github.com/lVlyke/lithium-ngx-material-theming-templates",
@@ -30,32 +30,27 @@
     "build:js": "node ./scripts/build.js"
   },
   "peerDependencies": {
-    "@lithiumjs/ngx-material-theming": ">=0.7.0-beta.0 <0.8.0"
+    "@lithiumjs/ngx-material-theming": ">=0.8.0-beta.0 <0.9.0"
   },
   "devDependencies": {
-    "@angular/animations": "^12.0.4",
-    "@angular/cdk": "^12.0.4",
-    "@angular/common": "^12.0.4",
-    "@angular/compiler": "^12.0.4",
-    "@angular/compiler-cli": "^12.0.4",
-    "@angular/core": "^12.0.4",
-    "@angular/forms": "^12.0.4",
-    "@angular/material": "^12.0.4",
-    "@angular/platform-browser": "^12.0.4",
-    "@lithiumjs/angular": "^6.1.0",
-    "@lithiumjs/ngx-material-theming": "0.7.0",
-    "@types/node": "^14.17.1",
-    "fs-extra": "^7.0.1",
-    "rxjs": "^6.5.5",
-    "sass": "^1.35.1",
+    "@angular/animations": "^13.3.2",
+    "@angular/cdk": "^13.3.2",
+    "@angular/common": "^13.3.2",
+    "@angular/compiler": "^13.3.2",
+    "@angular/compiler-cli": "^13.3.2",
+    "@angular/core": "^13.3.2",
+    "@angular/forms": "^13.3.2",
+    "@angular/material": "^13.3.2",
+    "@angular/platform-browser": "^13.3.2",
+    "@lithiumjs/angular": "^7.1.0",
+    "@lithiumjs/ngx-material-theming": "^0.8.0",
+    "@types/node": "^16.11.7",
+    "fs-extra": "^10.0.1",
+    "rxjs": "^7.4.0",
+    "sass": "^1.50.0",
     "tslib": "^2.1.0",
-    "typescript": "~4.2.4",
+    "typescript": "~4.6.3",
     "zone.js": "^0.11.4"
   },
-  "dependencies": {},
-  "ngPackage": {
-    "lib": {
-      "entryFile": "./src/index.ts"
-    }
-  }
+  "dependencies": {}
 }
