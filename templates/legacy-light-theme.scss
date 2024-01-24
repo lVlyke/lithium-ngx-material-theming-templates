@@ -1,3 +1,0 @@
-@use "@lithiumjs/ngx-material-theming" as mat-theming;
-
-@include mat-theming.declare-legacy-template-theme($is-dark: false);
